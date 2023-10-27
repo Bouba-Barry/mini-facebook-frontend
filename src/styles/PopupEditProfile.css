@@ -1,0 +1,29 @@
+.custom-popup {
+    width: 90vh;
+    height: auto;
+    max-height: 110vh;
+    left: 50%;
+    top: 50%;
+    background-color: rgb(255, 255, 255) !important;
+    border: none;
+
+}
+
+input {
+    z-index: 1;
+}
+
+/* .child{
+    position: relative;
+} */
+/* 
+.close-button {
+    position : absolute;
+  top: 220px;
+  right: 450px;
+  background-color: transparent;
+  border: none;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+} */
